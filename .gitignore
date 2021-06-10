@@ -1,0 +1,5 @@
+*.swp
+*.npz
+data_gen/data/*
+checkpoints/
+
